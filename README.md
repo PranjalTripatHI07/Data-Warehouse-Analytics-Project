@@ -128,7 +128,7 @@ This project demonstrates my ability to design and implement production-ready da
 
 
 
-[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
+[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranjaltripathi07.github.io/myportfolio.github.io/)
 
 
 
